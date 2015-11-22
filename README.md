@@ -1,4 +1,4 @@
-# LinksFromCocoaheadsDESlack
+# Links From CocoaheadsDE-Slack
 
 ## Tools
 
